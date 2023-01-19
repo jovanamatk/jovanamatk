@@ -1,7 +1,7 @@
-## Hello world 🙋‍♀️ My name is Jovana
-### 👩‍💻 About me
+## Hello world! 👩‍💻
+### About me
 - 🤔 Web developer enjoying the beautiful world of 0s and 1s
-- 🪄 Specialized in JavaScript and PHP
+- 🪄 Specialized in JavaScript and PHP 🐘
 - 🌱 Exploring the NodeJS ecosystem
 - 🦎 Open to work -> toss me an ✉️
 
